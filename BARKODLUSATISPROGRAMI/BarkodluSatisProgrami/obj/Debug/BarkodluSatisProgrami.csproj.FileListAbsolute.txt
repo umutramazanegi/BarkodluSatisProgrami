@@ -1,0 +1,345 @@
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\BarkodDb.mdf
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\BarkodDb_log.ldf
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\rpGenelRapor.rdlc
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\rpStokIzleme.rdlc
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\rpStokUrun.rdlc
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\BarkodluSatisProgrami.exe.config
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\BarkodluSatisProgrami.exe
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\BarkodluSatisProgrami.pdb
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\EntityFramework.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\EnvDTE.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\stdole.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\EntityFramework.xml
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\EnvDTE.xml
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.csproj.AssemblyReference.cache
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fAyarlar.resources
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fBaslangic.resources
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fDetayGoster.resources
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fFiyatGuncelle.resources
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fGelirGider.resources
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fHizliButonUrunEkle.resources
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fLogin.resources
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fNakitKart.resources
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fRapor.resources
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fRaporGoster.resources
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fSatis.resources
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fStok.resources
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fUrunGiris.resources
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fUrunGrubuEkle.resources
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.Properties.Resources.resources
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.csproj.GenerateResource.cache
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\Barkodlu.0AC71609.Up2Date
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.exe
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.pdb
+C:\Users\ozgur\source\repos\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fIletisim.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\BarkodDb.mdf
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\BarkodDb_log.ldf
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\rpGenelRapor.rdlc
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\rpStokIzleme.rdlc
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\rpStokUrun.rdlc
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\BarkodluSatisProgrami.exe.config
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\BarkodluSatisProgrami.exe
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\BarkodluSatisProgrami.pdb
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\EntityFramework.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\EnvDTE.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\stdole.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\EntityFramework.xml
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.csprojAssemblyReference.cache
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fAyarlar.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fBaslangic.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fDetayGoster.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fFiyatGuncelle.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fGelirGider.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fHizliButonUrunEkle.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fLogin.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fNakitKart.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fRapor.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fRaporGoster.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fSatis.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fStok.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fUrunGiris.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fUrunGrubuEkle.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fIletisim.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.Properties.Resources.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.csproj.GenerateResource.cache
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\RdlCompile.cache
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\RdlCompile.compiled
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.csproj.CoreCompileInputs.cache
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.csproj.CopyComplete
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.exe
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.pdb
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\rpGenelRapor.rdlc
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\rpStokIzleme.rdlc
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\rpStokUrun.rdlc
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\BarkodluSatisProgrami.exe.config
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\BarkodluSatisProgrami.exe
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\BarkodluSatisProgrami.pdb
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\EntityFramework.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\EnvDTE.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\stdole.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\EntityFramework.xml
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fAyarlar.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fBaslangic.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fDetayGoster.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fFiyatGuncelle.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fGelirGider.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fHizliButonUrunEkle.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fLogin.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fNakitKart.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fRapor.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fRaporGoster.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fSatis.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fStok.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fUrunGiris.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fUrunGrubuEkle.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fIletisim.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.Properties.Resources.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.csproj.GenerateResource.cache
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\RdlCompile.cache
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\RdlCompile.compiled
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.csproj.CoreCompileInputs.cache
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.csproj.CopyComplete
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.exe
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.pdb
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\Lisans.dll
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\Lisans.pdb
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\Lisans.dll.config
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.fLisans.resources
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\BarkodDb.mdf
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\bin\Debug\BarkodDb_log.ldf
+C:\Users\Umut Ramazan\source\repos\BARKODLUSATISPROGRAMI\BarkodluSatisProgrami\obj\Debug\BarkodluSatisProgrami.csprojAssemblyReference.cache

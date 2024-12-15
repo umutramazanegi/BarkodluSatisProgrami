@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ozgur\\source\\repos\\BarkodluSatisProgrami\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17205147-142B-4379-A786-B984102C69FC}|BarkodluSatisProgrami\\BarkodluSatisProgrami.csproj|C:\\Users\\ozgur\\source\\repos\\BarkodluSatisProgrami\\barkodlusatisprogrami\\f\u0130letisim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17205147-142B-4379-A786-B984102C69FC}|BarkodluSatisProgrami\\BarkodluSatisProgrami.csproj|solutionrelative:barkodlusatisprogrami\\f\u0130letisim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17205147-142B-4379-A786-B984102C69FC}|BarkodluSatisProgrami\\BarkodluSatisProgrami.csproj|c:\\users\\ozgur\\source\\repos\\barkodlusatisprogrami\\barkodlusatisprogrami\\fbaslangic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17205147-142B-4379-A786-B984102C69FC}|BarkodluSatisProgrami\\BarkodluSatisProgrami.csproj|solutionrelative:barkodlusatisprogrami\\fbaslangic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17205147-142B-4379-A786-B984102C69FC}|BarkodluSatisProgrami\\BarkodluSatisProgrami.csproj|C:\\Users\\ozgur\\source\\repos\\BarkodluSatisProgrami\\barkodlusatisprogrami\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17205147-142B-4379-A786-B984102C69FC}|BarkodluSatisProgrami\\BarkodluSatisProgrami.csproj|solutionrelative:barkodlusatisprogrami\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17205147-142B-4379-A786-B984102C69FC}|BarkodluSatisProgrami\\BarkodluSatisProgrami.csproj|C:\\Users\\ozgur\\source\\repos\\BarkodluSatisProgrami\\barkodlusatisprogrami\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17205147-142B-4379-A786-B984102C69FC}|BarkodluSatisProgrami\\BarkodluSatisProgrami.csproj|solutionrelative:barkodlusatisprogrami\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fBaslangic.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\source\\repos\\BarkodluSatisProgrami\\BarkodluSatisProgrami\\fBaslangic.cs",
+              "RelativeDocumentMoniker": "BarkodluSatisProgrami\\fBaslangic.cs",
+              "ToolTip": "C:\\Users\\ozgur\\source\\repos\\BarkodluSatisProgrami\\BarkodluSatisProgrami\\fBaslangic.cs",
+              "RelativeToolTip": "BarkodluSatisProgrami\\fBaslangic.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:15:50.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "f\u0130letisim.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ozgur\\source\\repos\\BarkodluSatisProgrami\\BarkodluSatisProgrami\\f\u0130letisim.cs",
+              "RelativeDocumentMoniker": "BarkodluSatisProgrami\\f\u0130letisim.cs",
+              "ToolTip": "C:\\Users\\ozgur\\source\\repos\\BarkodluSatisProgrami\\BarkodluSatisProgrami\\f\u0130letisim.cs [Design]",
+              "RelativeToolTip": "BarkodluSatisProgrami\\f\u0130letisim.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:17:53.6Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\source\\repos\\BarkodluSatisProgrami\\BarkodluSatisProgrami\\fLogin.cs",
+              "RelativeDocumentMoniker": "BarkodluSatisProgrami\\fLogin.cs",
+              "ToolTip": "C:\\Users\\ozgur\\source\\repos\\BarkodluSatisProgrami\\BarkodluSatisProgrami\\fLogin.cs",
+              "RelativeToolTip": "BarkodluSatisProgrami\\fLogin.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAhwHEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:15:17.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ozgur\\source\\repos\\BarkodluSatisProgrami\\BarkodluSatisProgrami\\fLogin.cs",
+              "RelativeDocumentMoniker": "BarkodluSatisProgrami\\fLogin.cs",
+              "ToolTip": "C:\\Users\\ozgur\\source\\repos\\BarkodluSatisProgrami\\BarkodluSatisProgrami\\fLogin.cs [Design]",
+              "RelativeToolTip": "BarkodluSatisProgrami\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:03:09.843Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
